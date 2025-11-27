@@ -1,5 +1,4 @@
 namespace sprites {
-    //%color=#6f8087 icon=\uf135
     //%groups=["move"]
     
 
@@ -15,5 +14,9 @@ namespace sprites {
 
 
 namespace spritePlus {
-
+    //%color=#6f8087 icon=\uf135
+    export function foo(): void {
+        
+    }
+    
 }
