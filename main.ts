@@ -5,7 +5,7 @@ namespace sprites {
 
     //%block="walk to X: $x Y: $y"
     //%group="move"
-    export function walkTo(X:number, Y:number): void {
+    export function walkTo(x:number, y:number): void {
         
     }
     
